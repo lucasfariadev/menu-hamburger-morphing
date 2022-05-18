@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+
 body{
     font-family: sans-serif;
 }
@@ -52,6 +54,12 @@ body{
     letter-spacing: 4px;
     margin: 0;
     transition: 0.3s;
+}
+
+.card-wrapper a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: 'Odibee Sans', cursive;
 }
 
 .card-wrapper p{
